@@ -21,7 +21,11 @@ The [Agile Manifesto](http://agilemanifesto.org):
 
 ### Comments
 
-You may wonder why I use the term 'post-agile'. It may be pointless. But it may be necessary to go with the flow of those who think there must be something more than what they've learned so far. As I see it, there are two essentials to agile: treating people well; and never stop learning. The second is only possible if the former is in place. The phrase and much of the bullet point 'There is a deeper theme...' comes from [About the Manifesto](http://agilemanifesto.org/history.html). The emphasis on continuous learning is for some so obvious as to need no explanation. But for those stuck in a so-called agile process–which they are powerless to change or improve–the emphasis that without continuous learning and change there is no agile, can be a lifeline. Ron Jeffries's reaction to criticisms of Scrum has been: "The essence of what makes Scrum work isn’t the three roles, the five meetings, the one artifact. It’s Inspect and Adapt. When things are not going as you like, you’re supposed to fix it." This is only possible when the relationships empower people to do so.
+You may wonder why the term 'post-agile'. It may be pointless. But it may be necessary to go with the flow of those who think there must be something more than what they've learned so far. 
+
+As I see it, there are two essentials to agile: treating people well; and never stop learning. The second is only really possible if the former is in place. 
+ * The phrase and much of the bullet point 'There is a deeper theme...' comes from [About the Manifesto](http://agilemanifesto.org/history.html). 
+ * The emphasis on continuous learning is for some so obvious as to need no explanation. But some are stuck in a so-called "agile" process which they are powerless to change or improve. Which is of course the very definition of not agile. So the emphasis that without continuous learning and change there is no agile, can be a lifeline. Ron Jeffries's reaction to criticisms of Scrum has been: "The essence of what makes Scrum work isn’t the three roles, the five meetings, the one artifact. It’s Inspect and Adapt. When things are not going as you like, you’re supposed to fix it." This is only possible when the relationships empower people to do so.
 
 ### A rather rushed and incomplete bibliography
 
