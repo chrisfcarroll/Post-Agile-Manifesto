@@ -1,6 +1,12 @@
 _-- DRAFT --_ 
 
-In nearly 15 years since the Agile manifesto was penned, an entire generation of the software industry has grown up having known only 'Agile' methodologies. Their experience has not been entirely positive. The 'new' criticisms made against agile – that is, by those who have grown up with it, not those who opposed it in the first place – are rarely criticisms of the agile manifesto. They are, rather, reactions against the unpleasant experience of being pushed into a process, or pushed into ways of behaving, or pushed into relationships, which are mechanistic and unfulfilling at best and demeaning and exploitative at worst. We should always react against people being pushed about. A manifesto is a small thing. It can fall on deaf ears. It can be interpreted to mean the opposite of what was intended, it can be misused to manipulate people. But if we make the effort to keep in touch with each other, and to keep trying to re-state what was meant, it can continue to be a valuable guide. And so I propose a 15th anniversary postscript.
+In nearly 15 years since the Agile manifesto was penned, an entire generation of the software industry has grown up having known only 'Agile' methodologies. Their experience has not been entirely positive. The 'new' criticisms made against agile – that is, by those who have grown up with it, not those who opposed it in the first place – are rarely criticisms of the agile manifesto. 
+
+They are, often, reactions against the abusive experience of being pushed into processes, behaviours or relationships which are unsatisfactory whilst being stripped of any power to improve them.
+
+We should always react against people being pushed about, and made powerless.
+
+A manifesto is a small thing. It can fall on deaf ears. It can be interpreted to mean the opposite of what was intended, it can be misused to manipulate people. But if we make the effort to keep in touch with each other, and to keep trying to re-state what was meant, it can continue to be a valuable guide. And so I propose a 15th anniversary postscript.
 
 ## Manifesto for Post-Agile Software Development: A Postscript
 
