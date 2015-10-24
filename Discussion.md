@@ -8,4 +8,4 @@ I think the document needs:
 
 3.  Link to/restatement of the original manifesto
 
-4.  Identify the state of those stuck in a so-called agile process which they are powerless to change or improve. Being made powerless to improve is _exactly_ the opposite of agile.
+4.  Highlight the irony but also the pain of a so-called agile environment in which the people are powerless to change or improve. Being made powerless to improve is _exactly_ the opposite of agile
