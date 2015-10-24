@@ -10,7 +10,7 @@ A manifesto is a small thing. It can fall on deaf ears. It can be interpreted to
 
 ## Manifesto for Post-Agile Software Development: A Postscript
 
-*   The agile manifesto was not and is not a prescription for people who demand conformity, nor a tool for controlling people.
+*   The agile manifesto was not and is not a prescription for people to impose conformity, nor a tool for controlling people.
 *   There is a deeper theme to agile. At the core it is based on trust and respect, promoting workplace relationships which value people. We oppose methods, structures and behaviours which reduce respect and trust, and which reduce people to assets with no power.
 *   Agile will always demand shared learning and shared improvement. Without critical reflection and learning – both from their own experiences and from the wider community – teams cannot remain agile. Without improvement based on that learning, 'agile' becomes fossilization.
 
