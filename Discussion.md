@@ -9,3 +9,5 @@ I think the document needs:
 3.  Link to/restatement of the original manifesto
 
 4.  Highlight the irony but also the pain of a so-called agile environment in which the people are powerless to change or improve. Being made powerless to improve is _exactly_ the opposite of agile
+
+5. Link to Cockburn's Heart of Agile and similar which offer to take agile forward
